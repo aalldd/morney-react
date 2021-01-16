@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import {TagsSection} from './Money/TagsSection';
 import {Category} from './Money/CategorySection';
 import {NoteSection} from './Money/NoteSection';
-import {NumberPad} from './Money/NumberPadSection';
+import {NumberPad} from './Money/NumberPadSection/NumberPadSection';
 
 const MyLayout = styled(Layout)`
   display:flex;
